@@ -15,12 +15,13 @@ featured-image-source:
 
 # Social settings
 500px_url:
-facebook_url:
-instagram_url:
-linkedin_url: 
+facebook_url: https://www.facebook.com/eliteaircraftinteriors/
+instagram_url: https://www.instagram.com/eliteaircraftinteriors/
+linkedin_url: https://www.linkedin.com/company/eliteaircraftinteriors
 pinterest_url:
 slack_url:
-twitter_url: 
+twitter_url:
+youtube_url: https://www.youtube.com/user/EliteAircraftInt
 
 # Build settings
 markdown: kramdown
