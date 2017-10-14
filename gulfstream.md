@@ -3,6 +3,6 @@ layout: page
 title: Gulfstream
 description: 
 ---
-![Gulfstream](/assets/images/gulfstream/gulfstream_1.jpg){:height="27.5%" width="27.5%" style="align:left;padding-right:15px;"}![Gulfstream](/assets/images/gulfstream/gulfstream_3.jpg){:height="27.5%" width="27.5%" style="align:left;padding-right:15px;"}![Gulfstream](/assets/images/gulfstream/gulfstream_4.jpg){:height="27.5%" width="27.5%" style="align:left;padding-right:15px;"}
+{% imgpopup /assets/images/gulfstream/gulfstream_1.jpg 27.5%% Gulfstream %} {% imgpopup /assets/images/gulfstream/gulfstream_3.jpg 27.5%% Gulfstream %} {% imgpopup /assets/images/gulfstream/gulfstream_4.jpg 27.5%% Gulfstream %}
 <br><br>
-![Gulfstream](/assets/images/gulfstream/gulfstream_1.jpg){:height="27.5%" width="27.5%" style="align:left;padding-right:15px;"}![Gulfstream](/assets/images/gulfstream/gulfstream_3.jpg){:height="27.5%" width="27.5%" style="align:left;padding-right:15px;"}![Gulfstream](/assets/images/gulfstream/gulfstream_4.jpg){:height="27.5%" width="27.5%" style="align:left;padding-right:15px;"}
+
