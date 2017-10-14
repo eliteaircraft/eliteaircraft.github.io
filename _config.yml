@@ -1,10 +1,10 @@
 # Site settings
-title: Iron Horse Fitness
-email: ironhorsefitnessllc@gmail.com
-address: 115 Railroad Ave. Danville, CA 94526
-description: Iron Horse Fitness Training Gym
+title: Elite Aircraft Interiors
+email: arturo@eliteaircraftinteriors.net
+address: 240 SW 34th Street, Fort Lauderdale, FL 33315
+description: blah blah blah
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://ironhorsefitness.github.io" # the base hostname & protocol for your site
+url: "https://eliteaircraft.github.io" # the base hostname & protocol for your site
 
 # Homepage tiles
 tiles-source: posts # accepts "posts" or "pages"
