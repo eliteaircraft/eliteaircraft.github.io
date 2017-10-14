@@ -203,6 +203,14 @@
 		text-align: right;
 	}
 
+	.screen {
+	    display: none;
+	}
+
+	.illustration {
+	    @include centered(100%);
+	}
+
 /* Section/Article */
 
 	section, article {
