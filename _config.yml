@@ -25,6 +25,7 @@ youtube_url: https://www.youtube.com/user/EliteAircraftInt
 
 # Build settings
 markdown: kramdown
+plugins: plugins
 
 sass:
   style: compressed
