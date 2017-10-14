@@ -48,6 +48,29 @@
 		-webkit-text-size-adjust: none;
 	}
 
+	.caption {
+	    font-style: italic;
+	    font-size: 80% !important;
+	    text-align: center;
+	    @include centered(100%);
+	}
+
+	div.imgpopup {
+	    border: 1px solid #cccccc;
+	    @include rounded-border(10px);
+	    margin: 10px;
+	    @include centered(80%);
+	    text-align: center;
+
+	    .caption {
+	        margin: 0 !important;
+	    }
+	}
+
+	.screen {
+	    display: none;
+	}
+
 /* Box Model */
 
 	*, *:before, *:after {
