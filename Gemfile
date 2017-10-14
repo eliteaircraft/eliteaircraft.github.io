@@ -1,22 +1,3 @@
 source "http://rubygems.org"
 
-gem 'rake'
-gem 'rack'
-gem 'jekyll'
-gem 'rdiscount'
-gem 'pygments.rb'
-gem 'RedCloth'
-gem 'haml', '>= 3.1'
-gem 'compass', '>= 0.11'
-gem 'rubypants'
-gem 'rb-fsevent'
-gem 'stringex'
-gem 'liquid', '2.2.2'
-gem 'mini_magick'
-gem 'rb-inotify'
-gem 'pry'
-gem 'erubis'
-gem 'grizzled-ruby'
-gem 'bourbon'
-gem 'octokit'
-gem 'sinatra', '1.2.6'
+gemspec
